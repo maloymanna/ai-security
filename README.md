@@ -13,4 +13,7 @@ Model Context Protocol (MCP)]: https://modelcontextprotocol.io/docs/getting-star
 ### OWASP Gen AI Security:
 - OWASP Top 10 for Large Language Model (LLM) applications: [2025 Top 10 for LLM applications](https://genai.owasp.org/download/43299/?tmstv=1731900559)
 - OWASP Top 10 for Agentic applications: [Global Kickoff](https://genai.owasp.org/download/50656/?tmstv=1754509517)
+- Agentic Top 10 - Initial Candidates: [GitHub repo](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/tree/main/initiatives/agent_security_initiative/agentic-top-10/0.5-initial-candidates)
+- OWASP Gen AI Threat Defense COMPASS Playbook: [Methodology](https://genai.owasp.org/download/51678/?tmstv=1757548841)
+- OWASP Threat Defense COMPASS - practical speadsheet tool: [Google Sheet](https://docs.google.com/spreadsheets/d/1M9_4lSkNeuDokiljZCBe2KSpmfEAiL1vo7zQIT2-uKM/edit?usp=sharing)
   
