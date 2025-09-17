@@ -16,4 +16,5 @@ Model Context Protocol (MCP)]: https://modelcontextprotocol.io/docs/getting-star
 - Agentic Top 10 - Initial Candidates: [GitHub repo](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/tree/main/initiatives/agent_security_initiative/agentic-top-10/0.5-initial-candidates)
 - OWASP Gen AI Threat Defense COMPASS Playbook: [Methodology](https://genai.owasp.org/download/51678/?tmstv=1757548841)
 - OWASP Threat Defense COMPASS - practical speadsheet tool: [Google Sheet](https://docs.google.com/spreadsheets/d/1M9_4lSkNeuDokiljZCBe2KSpmfEAiL1vo7zQIT2-uKM/edit?usp=sharing)
+- OWASP AI Security Testing - [Guide](https://github.com/OWASP/www-project-ai-testing-guide)
   
