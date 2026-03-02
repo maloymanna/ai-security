@@ -1,5 +1,9 @@
 # Security in AI  
 
+## AI Security awareness: Lakera's Gandalf
+Test your AI hacking skills and learn how easy it is to [compromise AI systems without effective guardrails](https://gandalf.lakera.ai/gandalf-the-white)
+- [Learning Path with Gandalf](https://lakera-marketing-public.s3.eu-west-1.amazonaws.com/Lakera-AI-Building-AI-Security-Awareness-Through-Red-Teaming-with-Gandalf.pdf)
+
 ## AI topics
 Model Context Protocol (MCP)]: https://modelcontextprotocol.io/docs/getting-started/intro  
 - [Security Design Issue: PR #544](https://github.com/modelcontextprotocol/modelcontextprotocol/issues/544)
